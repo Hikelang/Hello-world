@@ -1,0 +1,5 @@
+// Simple hello world programm made in hike programming language.
+export main = () int {
+	print("hello world");
+	return 0;
+}
